@@ -4,7 +4,7 @@ This is a simple script to transcribe the audio file and find the trending words
 
 ## Usage
 
-- Enter your SpeechSDK key in `speech.py` file
+- Enter your SpeechSDK API key and region in `speech.py` file
 - Run `python3 speech.py`
 - Enter the path to the audio file
 
